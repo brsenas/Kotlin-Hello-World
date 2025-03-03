@@ -4,7 +4,6 @@ import brsenas.com.github.helloworld.model.Jogo
 import brsenas.com.github.helloworld.services.ConsumoApi
 import java.util.*
 
-
 fun main() {
     val leitura = Scanner(System.`in`)
     println("Digite um código de jogo para buscar: ")
